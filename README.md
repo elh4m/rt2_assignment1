@@ -3,6 +3,8 @@
 
 use the link to access the documentation
 
+https://elh4m.github.io/rt2_assignment1/
+
 
 
 
