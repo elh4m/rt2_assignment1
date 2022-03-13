@@ -68,7 +68,4 @@ To launch the node
 roslaunch rt2_assignment1 sim.launch
 ````
 
-in other terminal, open coppeliasim
-````
-./coppeliaSim
-````
+
