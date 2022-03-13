@@ -54,7 +54,7 @@ catkin_make
 clone the repository 
 
 ```
-git clone -b action 
+git clone -b action https://github.com/elh4m/rt2_assignment1.git
 ```
 
 Refresh the workspace using
